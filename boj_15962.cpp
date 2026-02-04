@@ -1,0 +1,13 @@
+//<15962>번 : <새로운 시작>
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    cout << "파이팅!!" << '\n';
+
+    return 0;
+}
